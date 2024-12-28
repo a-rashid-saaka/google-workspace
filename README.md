@@ -43,4 +43,23 @@
 
 <h3>&#9312; User Addition</h3>
 
+<h4>Addition of indivdual users</h4>
+  
+  I. In the admin console, go to "Directory" > Users > Click "Add new user"
 
+![image](https://github.com/user-attachments/assets/15a913a6-de70-4fa1-a272-20be4e149fdc)
+
+  II. Fill out the form that appears. You can choose to add a password or let Google Workspace automatically generate password
+  
+ III. Click "ADD NEW USER" to create the account
+
+  
+![image](https://github.com/user-attachments/assets/341daa28-6de5-447f-8691-1f47b3097de4)
+
+  ![image](https://github.com/user-attachments/assets/325f8224-aad2-451d-93e1-396f1de9837b)
+
+ <br>
+ <br>
+
+ <h4>Bulk addition of multiple users</h4>
+ 
