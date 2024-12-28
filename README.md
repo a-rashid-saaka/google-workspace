@@ -34,6 +34,13 @@
 - Google Workspace Admin console
 - Windows 10
 
+<br>
+<br>
 
+
+  For the purpose of this exercise, I have already signed up to the Google Workspace trial account, and connected a subdomain from [Carrd](https://carrd.co/).
+  Best practice to creating a Google Workspace domain is to connect and verify a domain that an organization owns
+
+<h3>&#9312; User Addition</h3>
 
 
