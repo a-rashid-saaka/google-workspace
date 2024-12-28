@@ -12,13 +12,28 @@
 - Bulk additon of multiple users
 - Addition of email alias for users
   
-  
+<h3>Creation of Organizational Units</h3>
+
+- Creating Organizational Units to simulate real-world scenarios 
+
+<h3>Enforce Security Policies</h3>
+
+- Configure and enforce some basic security policies
+
+<h3>Configure Email and Drive settings</h3>
+
+- 
 
 <h3>Troubleshoot some common issues</h3>
 
 - Password Reset
 - Rename user 
 
-<h3> Traffic Inspection</h3>
+<h2>Environments and Technologies Used</h2>
 
-- Undertake a basic inspection of the network traffic between the Domain Controller and Client virtual machines.
+- Google Workspace Admin console
+- Windows 10
+
+
+
+
