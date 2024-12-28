@@ -62,4 +62,10 @@
  <br>
 
  <h4>Bulk addition of multiple users</h4>
- 
+  
+   I. In the admin console, go to "Directory" > Users > Click "Bulk update users"
+  
+   II. Click "DOWNLOAD BLANK CSV TEMPLATE". This will download a blank file with all the required columns to your local machine.
+
+   III. Open CSV file in an spreadsheet application and populate the file with user information
+   
