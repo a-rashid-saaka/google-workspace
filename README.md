@@ -66,6 +66,31 @@
    I. In the admin console, go to "Directory" > Users > Click "Bulk update users"
   
    II. Click "DOWNLOAD BLANK CSV TEMPLATE". This will download a blank file with all the required columns to your local machine.
+   
+   ![image](https://github.com/user-attachments/assets/54be859f-ddbd-4119-ab64-b1ef1080c9aa)
+
 
    III. Open CSV file in an spreadsheet application and populate the file with user information
    
+  The following columns are mandatory:
+  - First Name
+  - Last Name
+  - Email Address
+  - Password (enter hellohello1)
+  - Organizational Unit Path (For this exercise, enter the forward slash symbol / into this column. This represents the root organization)
+
+![image](https://github.com/user-attachments/assets/08ccaced-26f0-438c-8877-f1a06ec0929f)
+
+IV. Return to the 'Bulk update users' dialog box, click "ATTACH CSV FILE" and browse to your
+file, then click "UPLOAD" to  create the user accounts.
+
+- If your file has formatting errors, a warning prompts that you may need to re-edit the file.
+- If successful, the progress of the upload will be reported in the Tasks list at the top of the
+page. 
+
+![image](https://github.com/user-attachments/assets/a629508f-e716-4705-9054-84bbd6d0770e)
+
+
+IV. The new users may take a couple of minutes to appear in the user list. If you don’t see them right away, try refreshing the screen.
+
+![image](https://github.com/user-attachments/assets/dc2db5f9-8d7c-4baf-8744-41758459a0d6)
