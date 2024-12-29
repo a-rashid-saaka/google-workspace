@@ -94,3 +94,23 @@ page.
 IV. The new users may take a couple of minutes to appear in the user list. If you don’t see them right away, try refreshing the screen.
 
 ![image](https://github.com/user-attachments/assets/dc2db5f9-8d7c-4baf-8744-41758459a0d6)
+
+<br>
+<br>
+
+<h4>Addition of Email alias</h4>
+
+In this exercise we will create an email alias for a user. An email alias allows a user to receive email sent to multiple addresses in their Gmail inbox.
+
+I. In the left panel in the admin console, click "Directory" > Users
+
+II. Locate Jon Snow in the user list, select his name, and click the "User information" section.
+
+III Click the "Alternative email addresses (email alias)" section.
+
+IV. In the "Alternative email" text field, enter "jonny" and click "SAVE".
+   
+   ![image](https://github.com/user-attachments/assets/705fff6b-cfe2-4629-b977-ff9965cd5830)
+
+
+
