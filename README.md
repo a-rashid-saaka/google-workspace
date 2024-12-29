@@ -112,5 +112,6 @@ IV. In the "Alternative email" text field, enter "jonny" and click "SAVE".
    
    ![image](https://github.com/user-attachments/assets/705fff6b-cfe2-4629-b977-ff9965cd5830)
 
+<strong>NOTE:</strong> Though the user can receive emails on the new email elias added to his account, he can only login to his Google Workspace account wth his primary email address
 
 
