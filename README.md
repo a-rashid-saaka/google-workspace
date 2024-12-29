@@ -198,3 +198,11 @@ admins to recover their account box, Then click SAVE.
 ![image](https://github.com/user-attachments/assets/abceb274-bf16-4fb2-a9e4-9051a6eb034e)
 
 V. Settings can be applied at the OU level
+
+<h4>Configuring Session Controls</h4>
+
+As an administrator, you can control how long users stay signed in to Google services like Gmail. Session lengths can be set from 1 hour to indefinite, with the default being 14 days.
+
+<strong>Scenario</strong>
+
+Your company provides laptops to off-site consultants and wants to ensure that someone leaving the device with an active Google Workspace session does not compromise the device.They have decided to require each consultant to sign in at least once a day.
