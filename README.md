@@ -114,4 +114,38 @@ IV. In the "Alternative email" text field, enter "jonny" and click "SAVE".
 
 <strong>NOTE:</strong> Though the user can receive emails on the new email elias added to his account, he can only login to his Google Workspace account wth his primary email address
 
+<br>
+<br>
+
+<h3>&#9313; Creation of Organizational Units</h3>
+I. In the left panel, select "Directory" > Organizational Units > click "Create organizational unit"
+
+
+![image](https://github.com/user-attachments/assets/158ac30a-f51b-4755-84c4-ecee60156d81)
+
+ II. Give the OU the name of "Employees", provide description if required, and click "CREATE".
+
+
+![image](https://github.com/user-attachments/assets/b01fe68d-d41a-4270-8f4b-fc1ca7e21641)
+
+III. Follow the steps to create another OU called "Executive"
+
+IV. Navigate to your users list. You should see the two new OUs on the left hand side beneaththe top level organization.
+
+V. Select Edwin Jon, and Elias Grey by checking the box to the left of their name in the user list.
+
+VI. Click More options > Change organizational unit, and select Executive. Then click
+CONTINUE.
+
+
+![image](https://github.com/user-attachments/assets/df162f0a-f398-4aa6-9678-fcd20d1216e5)
+
+![image](https://github.com/user-attachments/assets/8d2a8c66-e214-4cb5-b47d-df147cf7c203)
+
+VII. Click CHANGE to confirm the move.
+
+
+![image](https://github.com/user-attachments/assets/0be48ba9-dc40-4e78-bdee-f99c69b940d4)
+
+VIII. Repeat Steps V - VII but this time move Ellie, Jon, Tom, and Will to the Employees OU.
 
