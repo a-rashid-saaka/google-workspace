@@ -216,3 +216,15 @@ III. Set 'Session control' to 8 hrs.
 IV. Click "OVERRIDE." This will override the top-level organization's setting of 14 days.
 
 ![image](https://github.com/user-attachments/assets/a144ff69-4887-4150-89e1-84fc7d9ac8e1)
+
+<h4>Less Secure Apps Restriction</h4>
+
+I. On the Security page, scroll down, and click "Less secure apps."
+
+Some third-party apps continue to use less secure sign-in technology. You can choose to deny access for these apps, which we recommend, or choose to allow access despite the risks.
+
+II. Make sure that "Disable access to less secure apps (recommended)" is selected. Click SAVE if you need to change this setting.
+
+III. This policy can be applied at the OU level.
+
+![image](https://github.com/user-attachments/assets/aa9b2a88-ab61-48cc-9780-b59bb69389d3)
