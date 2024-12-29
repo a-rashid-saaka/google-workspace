@@ -205,4 +205,14 @@ As an administrator, you can control how long users stay signed in to Google ser
 
 <strong>Scenario</strong>
 
-Your company provides laptops to off-site consultants and wants to ensure that someone leaving the device with an active Google Workspace session does not compromise the device.They have decided to require each consultant to sign in at least once a day.
+To enhance security, your company requires off-site consultants to sign in to their laptops at least once a day, ensuring that no device is left with an active Google Workspace session.
+
+I. Click the "Security" icon > select "Access and data control" > click "Google session control."
+
+II. Click on the "Consultants" OU (left side of the page).
+
+III. Set 'Session control' to 8 hrs.
+
+IV. Click "OVERRIDE." This will override the top-level organization's setting of 14 days.
+
+![image](https://github.com/user-attachments/assets/a144ff69-4887-4150-89e1-84fc7d9ac8e1)
