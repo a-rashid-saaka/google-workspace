@@ -211,7 +211,7 @@ I. Click the "Security" icon > select "Access and data control" > click "Google 
 
 II. Click on the "Consultants" OU (left side of the page).
 
-III. Set 'Session control' to 8 hrs.
+III. Set "Session control" to 8 hrs.
 
 IV. Click "OVERRIDE." This will override the top-level organization's setting of 14 days.
 
@@ -229,10 +229,32 @@ III. This policy can be applied at the OU level.
 
 ![image](https://github.com/user-attachments/assets/aa9b2a88-ab61-48cc-9780-b59bb69389d3)
 
+<br>
+<br>
 
-<h3>&#9314; Configuring Email settings</h3>
+<h3>&#9315; Configuring Email settings</h3>
 
 <h4>Configuring Email Safety</h4>
 
+I. Click the "Apps" icon > Google Workspace > click the "Gmail" service > Click "Safety."
 
+This will take you to the Safety page which is divided into four sections:
+- Attachments: Policies to protect against malware.
+- IMAP view time protections: Malicious link protection for users of IMAP clients.
+- Links and external images: Prevent email phishing attacks.
+- Spoofing and authentication: Reduce phishing due to spoofing and unauthenticated emails.
+  
+II. Click the "Attachments" card to manage protections. You can enable or disable settings and view the default actions.
 
+III. If not already enabled, check 'Protect against encrypted attachments from untrusted senders' and choose an action for messages that trigger this policy. The options are:
+- Keep email in the inbox and show warning (default)
+- Move email to spam
+- Quarantine
+
+IV. If you choose to quarantine the message you will be able to select which quarantine to use.
+
+V. Choose a desired option and click SAVE.
+
+![image](https://github.com/user-attachments/assets/18be5081-75fa-4877-8c5f-9657dabe0efb)
+
+Explore the other settings in this section and also click on each of the other three cards and review the available settings
