@@ -166,3 +166,35 @@ III. Ensure "Allow users to turn on 2-Step verification" is checked. This makes 
 
 ![image](https://github.com/user-attachments/assets/19f40d13-4881-4434-a17c-47048580f7e5)
 
+
+<h4>Password Management</h4>
+
+I. On the "Security" page, scroll down and select "Password management".
+ 
+II. Google Workspace supports many password policies.
+- You can enforce password strength and also set a password length policy by setting minimum and maximum length values. 
+- You can enforce the length and strength policies when users sign in to their account or when they change their password. The default enforcement occurs when the password is next changed.
+- You can choose whether to allow users to reuse their old passwords although this is not recommended. 
+- Finally, you can enforce password expiry although we recommend you allow passwords to never expire.
+- Settings can be applied at the OU level
+
+
+
+  ![image](https://github.com/user-attachments/assets/662a2e8b-4c64-4c0a-878a-2b0683157bce)
+
+   
+
+<h4>Account Recovery</h4>
+
+I. Return to the "Security" page, scroll down and click "Account Recovery."
+
+II. This setting allows you to control whether a Super Admin can recover their account themselves using the Forgot Password link, or whether they must ask another Super Admin or Google Support to reset their password.
+
+III. This setting is also where you control whether users can recover their own passwords. This is achieved through the use of a recovery email address or phone number. Note that password recovery is not available when using SSO, and 2-step verification users must use the email recovery option.
+
+IV. By default, only a domain administrator can reset a user’s password. To enable user password recovery, click User account recovery and check the Allow users and non-super
+admins to recover their account box, Then click SAVE.
+
+![image](https://github.com/user-attachments/assets/abceb274-bf16-4fb2-a9e4-9051a6eb034e)
+
+V. Settings can be applied at the OU level
