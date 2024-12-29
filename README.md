@@ -20,7 +20,7 @@
 
 - Configure and enforce some basic security policies
 
-<h3>Configure Email and Drive settings</h3>
+<h3>Configure Email settings</h3>
 
 - 
 
@@ -228,3 +228,11 @@ II. Make sure that "Disable access to less secure apps (recommended)" is selecte
 III. This policy can be applied at the OU level.
 
 ![image](https://github.com/user-attachments/assets/aa9b2a88-ab61-48cc-9780-b59bb69389d3)
+
+
+<h3>&#9314; Configuring Email settings</h3>
+
+<h4>Configuring Email Safety</h4>
+
+
+
