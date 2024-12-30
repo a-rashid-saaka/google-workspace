@@ -35,8 +35,8 @@
 - Windows 10
 
 <br>
-<br>
 
+<h3>Background</h3>
 
   For this exercise, I have already signed up for the Google Workspace trial account and connected a subdomain from [Carrd](https://carrd.co/).
   The best practice for creating a Google Workspace domain is to connect and verify a domain that an organization owns
@@ -379,3 +379,7 @@ You have just successfully created an approved sender list for your organization
 
 ![image](https://github.com/user-attachments/assets/727eebbc-1b95-46e7-859a-c66d7feccaf9)
 
+<br>
+<br>
+
+<h3>&#9316; Troubleshooting some common issues</h3>
