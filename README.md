@@ -341,3 +341,41 @@ VIII. Select the "Block senders" list you created, and click "SAVE"
 
 
 ![image](https://github.com/user-attachments/assets/bd4629c4-7a4d-46a2-ae0e-2a7b22746923)
+
+
+<br>
+
+<h4>Creating an approved sender list</h4>
+
+The main distinction between an email allowlist and an approved sender list is that the latter permits the addition of email addresses and domain names, while the allowlist is restricted to IP addresses only.
+
+I. Click the "Apps" icon > Google Workspace > click the "Gmail" service.
+
+II. Scroll down and click "Spam, Phishing and Malware."
+
+III. Scroll down to the "Spam" row and click "CONFIGURE."
+   
+IV. Enter a short description.
+   
+V. Check the "Bypass spam filters for messages from senders or domains in selected lists" box and click the Create or edit list link. This will open the address list page in a new tab.
+
+VI. Click "ADD ADDRESS LIST."
+    
+VII. Enter a name for the list of Approved senders.
+    
+VIII. Click "Add or ADD ADDRESS" to add a list entry.
+    
+IX. Enter the email address of someone external to your organization that you trust and click "SAVE."
+    
+X. Return to the "Spam, Phishing and Malware" tab, and click Use existing list.
+    
+XI. Select your Approved senders list, and click "SAVE."
+    
+You have just successfully created an approved sender list for your organization.
+
+
+![image](https://github.com/user-attachments/assets/efc90909-6380-4085-a70f-65b5b093cc22)
+
+
+![image](https://github.com/user-attachments/assets/727eebbc-1b95-46e7-859a-c66d7feccaf9)
+
