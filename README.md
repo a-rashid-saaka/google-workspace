@@ -314,7 +314,7 @@ IV. Click SAVE.
 ![image](https://github.com/user-attachments/assets/f4f3084f-f385-40eb-8c80-1f13eb3526bc)
 
 
-- Creating a blocked sender list
+- Creating a blocked sender list</h4>
   
 I. On the "Spam, Phishing and Malware" settings page, scroll down to the "Blocked senders" row and click "CONFIGURE."
 
