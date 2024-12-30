@@ -260,18 +260,21 @@ V. Choose a desired option and click SAVE.
 Explore the other settings in this section and also click on each of the other three cards and review the available settings
 
 
+
+
+
 <h4>Configuring end user access</h4> 
 
 <strong>Scenario</strong>
 
-Your company has a strong focus on the confidentiality of their corporate information. John, the CEO has become aware that it is common practice for non-permanent staff to use their own personal email accounts to conduct business. Some non-permanent staff have created a Gmail filter which forwards all mail received to their personal account and John would like to stop this practice.
+Your company strongly emphasizes the confidentiality of corporate information. John, the CEO, has become aware that it is common practice for non-permanent staff to use their personal email accounts to conduct business. Some non-permanent staff have created a Gmail filter that forwards all mail received to their personal account, and John would like to stop this practice.
 
 
 I. Click the "Apps" icon >  Google Workspace > click the "Gmail" service.
 
-II. Click "End User Access." You may need to scroll down to see this section.
+II. Click "End User Access." You will need to scroll down to see this section if you don't mind.
 
-III. Click on your top level organization on the left and ensure that POP and IMAP access are both set to OFF.
+III. Click on your top-level organization on the left to ensure that POP and IMAP access are set to OFF.
 
 IV. If you made changes, click SAVE.
 
@@ -279,8 +282,17 @@ IV. If you made changes, click SAVE.
 
 V. Click the "Consultants" OU.
 
-VI. Click on the Automatic forwarding row and ensure "Allow users to automatically forward incoming email to another address" box is unchecked. Any existing forwarding rules will now cease working
+VI. Click on the Automatic forwarding row and ensure the "Allow users to automatically forward incoming email to another address" box is unchecked. Any existing forwarding rules will now cease working
 
-VII. Click OVERRIDE (you are overriding the inherited setting from the top level organization).
+VII. Click OVERRIDE (you are overriding the inherited setting from the top-level organization).
 
 ![image](https://github.com/user-attachments/assets/2fcbb878-5c51-4ec3-a01f-d2f0543d9e1e)
+
+
+<h4>Create an email allowlist and a blocked sender list</h4>
+
+If legitimate emails from specific contacts are marked as spam, you can add their IP address to an allowlist so that messages from them are no longer flagged as spam.
+
+A blocked sender list includes email addresses that cannot send emails to your domain. Administrators can block specific users or entire domains.
+
+- Create an Allowlist
