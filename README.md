@@ -168,6 +168,7 @@ III. Ensure "Allow users to turn on 2-Step verification" is checked. This makes 
 
 ![image](https://github.com/user-attachments/assets/19f40d13-4881-4434-a17c-47048580f7e5)
 
+<br>
 
 <h4>Password Management</h4>
 
@@ -184,7 +185,7 @@ II. Google Workspace supports many password policies.
 
   ![image](https://github.com/user-attachments/assets/662a2e8b-4c64-4c0a-878a-2b0683157bce)
 
-   
+   <br>
 
 <h4>Account Recovery</h4>
 
@@ -200,6 +201,8 @@ admins to recover their account box, Then click SAVE.
 ![image](https://github.com/user-attachments/assets/abceb274-bf16-4fb2-a9e4-9051a6eb034e)
 
 V. Settings can be applied at the OU level
+
+<br>
 
 <h4>Configuring Session Controls</h4>
 
@@ -218,6 +221,8 @@ III. Set "Session control" to 8 hrs.
 IV. Click "OVERRIDE." This will override the top-level organization's setting of 14 days.
 
 ![image](https://github.com/user-attachments/assets/a144ff69-4887-4150-89e1-84fc7d9ac8e1)
+
+<br>
 
 <h4>Less Secure Apps Restriction</h4>
 
@@ -261,10 +266,7 @@ V. Choose a desired option and click SAVE.
 
 Explore the other settings in this section and also click on each of the other three cards and review the available settings
 
-
-
-
-
+<br>
 
 <h4>Configuring end user access</h4> 
 
@@ -291,9 +293,7 @@ VII. Click OVERRIDE (you are overriding the inherited setting from the top-level
 
 ![image](https://github.com/user-attachments/assets/2fcbb878-5c51-4ec3-a01f-d2f0543d9e1e)
 
-
 <br>
-
 
 <h4>Creating an email allowlist and a blocked sender list</h4>
 
