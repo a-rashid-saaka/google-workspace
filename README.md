@@ -383,3 +383,33 @@ You have just successfully created an approved sender list for your organization
 <br>
 
 <h3>&#9316; Troubleshooting some common issues</h3>
+
+<h4>Resetting user password</h4>
+
+<strong>Scenario</strong>
+An employee, Elias Grey, reaches out to the IT administrator because he has forgotten his password for his corporate Gmail account under the organization's Google Workspace.
+
+
+I. In the left panel, click "Directory" > Users.
+
+II. Access the reset password function in one of two ways:
+- Option 1: Hover over Elias Grey in the user list and click "Reset password" on the right.
+- Option 2: Click on Elias Grey in the user list to open his profile and then click "RESET PASSWORD" on the left.
+  
+III. In the "Reset password" dialog box, there are two options:
+- Option 1: Allow Google to auto-generate a password.
+  - Click RESET.
+ 
+
+- Option 2: Create a temporary password.
+   - Check the "Ask for a password change at the next sign-in" box.
+   - Click RESET.
+
+    ![image](https://github.com/user-attachments/assets/c713e04c-2a8d-46b3-82fa-784643e0bedb)
+
+
+IV. In either option, click the COPY PASSWORD link to copy the password to your clipboard and then click DONE.
+
+![image](https://github.com/user-attachments/assets/f0407965-646a-4c60-ba1e-d0fcc4e9cdfe)
+
+V. Provide Elias with his new password. When he next signs in he will be asked to change his password.
