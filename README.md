@@ -43,7 +43,7 @@
 
 <h3>&#9312; User Addition</h3>
 
-<h4>Addition of individual users</h4>
+<h4>Adding individual users</h4>
   
   I. In the admin console, go to "Directory" > Users > Click "Add new user"
 
@@ -61,7 +61,7 @@
  <br>
  <br>
 
- <h4>Bulk addition of multiple users</h4>
+ <h4>Adding multiple users in bulk</h4>
   
    I. In the admin console, go to "Directory" > Users > Click "Bulk update users"
   
@@ -98,7 +98,7 @@ IV. The new users may take a couple of minutes to appear in the user list. If yo
 <br>
 <br>
 
-<h4>Addition of Email alias</h4>
+<h4>Adding Email alias</h4>
 
 In this exercise, we will create a user's email alias. An email alias allows a user to receive emails sent to multiple addresses in their Gmail inbox.
 
@@ -117,7 +117,7 @@ IV. In the "Alternative email" text field, enter "jonny" and click "SAVE".
 <br>
 <br>
 
-<h3>&#9313; Creation of Organizational Units</h3>
+<h3>&#9313; Creating Organizational Units</h3>
 
 
 I. In the left panel, select "Directory" > Organizational Units > click "Create organizational unit"
