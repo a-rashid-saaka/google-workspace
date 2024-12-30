@@ -41,7 +41,7 @@
   For this exercise, I have already signed up for the Google Workspace trial account and connected a subdomain from [Carrd](https://carrd.co/).
   The best practice for creating a Google Workspace domain is to connect and verify a domain that an organization owns
 
-<h3>&#9312; User Addition</h3>
+<h3>&#9312; Adding Users</h3>
 
 <h4>Adding individual users</h4>
   
