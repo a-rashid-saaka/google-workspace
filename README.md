@@ -18,16 +18,16 @@
 
 <h3>Configure Security Settings</h3>
 
-- Configure and enforce some basic security policies
+- Configuring and enforcing some basic security policies
 
 <h3>Configure Email settings</h3>
 
-- 
+- Configuring email settings for better security
 
 <h3>Troubleshoot some common issues</h3>
 
-- Password Reset
-- Rename user 
+- Resetting user passwords
+- Renaming of users 
 
 <h2>Environments and Technologies Used</h2>
 
