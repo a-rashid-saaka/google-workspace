@@ -118,6 +118,8 @@ IV. In the "Alternative email" text field, enter "jonny" and click "SAVE".
 <br>
 
 <h3>&#9313; Creation of Organizational Units</h3>
+
+
 I. In the left panel, select "Directory" > Organizational Units > click "Create organizational unit"
 
 
@@ -263,6 +265,7 @@ Explore the other settings in this section and also click on each of the other t
 
 
 
+
 <h4>Configuring end user access</h4> 
 
 <strong>Scenario</strong>
@@ -289,6 +292,9 @@ VII. Click OVERRIDE (you are overriding the inherited setting from the top-level
 ![image](https://github.com/user-attachments/assets/2fcbb878-5c51-4ec3-a01f-d2f0543d9e1e)
 
 
+
+
+
 <h4>Create an email allowlist and a blocked sender list</h4>
 
 If legitimate emails from specific contacts are marked as spam, you can add their IP address to an allowlist so that messages from them are no longer flagged as spam.
@@ -296,3 +302,17 @@ If legitimate emails from specific contacts are marked as spam, you can add thei
 A blocked sender list includes email addresses that cannot send emails to your domain. Administrators can block specific users or entire domains.
 
 - Create an Allowlist
+
+I. Click  "Apps" >  Google Workspace > click the "Gmail" service.
+
+II. Scroll down and click "Spam, Phishing and Malware."
+
+III. Click on the 'Email allowlist' row, and add an IP address. If you want to add more IP addresses, separate entries with a comma.
+
+IV. Click SAVE.
+
+![image](https://github.com/user-attachments/assets/f4f3084f-f385-40eb-8c80-1f13eb3526bc)
+
+
+- Create a blocked sender list
+
