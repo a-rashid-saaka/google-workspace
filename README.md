@@ -292,16 +292,16 @@ VII. Click OVERRIDE (you are overriding the inherited setting from the top-level
 ![image](https://github.com/user-attachments/assets/2fcbb878-5c51-4ec3-a01f-d2f0543d9e1e)
 
 
+<br>
 
 
-
-<h4>Create an email allowlist and a blocked sender list</h4>
+<h4>Creating an email allowlist and a blocked sender list</h4>
 
 If legitimate emails from specific contacts are marked as spam, you can add their IP address to an allowlist so that messages from them are no longer flagged as spam.
 
 A blocked sender list includes email addresses that cannot send emails to your domain. Administrators can block specific users or entire domains.
 
-- Create an Allowlist
+- Creating an Allowlist
 
 I. Click  "Apps" >  Google Workspace > click the "Gmail" service.
 
@@ -314,5 +314,30 @@ IV. Click SAVE.
 ![image](https://github.com/user-attachments/assets/f4f3084f-f385-40eb-8c80-1f13eb3526bc)
 
 
-- Create a blocked sender list
+- Creating a blocked sender list
+  
+I. On the "Spam, Phishing and Malware" settings page, scroll down to the "Blocked senders" row and click "CONFIGURE."
 
+II. Enter a short description.
+
+III. Click "Create or edit list." This will open the address list page in a new tab.
+
+![image](https://github.com/user-attachments/assets/93149f2e-fb1b-4a17-ae9f-2c6f16eb38a6)
+
+IV. Click "ADD BLOCKED LIST."
+  
+V. Enter a name for the list, and click "Add' or "ADD ADDRESS" to add a list entry
+  
+VI. Enter the email address of your external account, then click "SAVE." Note: In addition to user
+email addresses, you can enter domain names here.
+
+![image](https://github.com/user-attachments/assets/68e872cf-d5ae-451e-a863-0ebc6f7038bf)
+
+VII. Return to the "Spam, Phishing and Malware" tab, and click Use existing list.
+
+VIII. Select the "Block senders" list you created, and click "SAVE"
+    
+![image](https://github.com/user-attachments/assets/9f862657-143f-4165-a249-f55898af4814)
+
+
+![image](https://github.com/user-attachments/assets/bd4629c4-7a4d-46a2-ae0e-2a7b22746923)
