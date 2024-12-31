@@ -76,17 +76,15 @@
   - First Name
   - Last Name
   - Email Address
-  - Password (enter hellohello1)
-  - Organizational Unit Path (For this exercise, enter the forward slash symbol / into this column. This represents the root organization)
+  - Password (enter mypassword1)
+  - Organizational Unit Path (For this exercise, please enter the forward slash symbol "/" in this column. This symbol represents the root organization.)
 
 ![image](https://github.com/user-attachments/assets/08ccaced-26f0-438c-8877-f1a06ec0929f)
 
-IV. Return to the 'Bulk update users' dialog box, click "ATTACH CSV FILE" and browse to your
-file, then click "UPLOAD" to  create the user accounts.
+IV. Go to the "Bulk Update Users" dialog, click "ATTACH CSV FILE," select your file, and then click "UPLOAD" to create the user accounts.
 
-- If your file has formatting errors, a warning will prompt you to re-edit it.
-- If successful, the upload progress will be reported in the Tasks list at the top of the
-page. 
+- If your file has mistakes, a warning will tell you to fix it.
+- If the upload is successful, progress will appear in the Tasks list at the top. 
 
 ![image](https://github.com/user-attachments/assets/a629508f-e716-4705-9054-84bbd6d0770e)
 
@@ -100,7 +98,7 @@ IV. The new users may take a couple of minutes to appear in the user list. If yo
 
 <h4>Adding Email alias</h4>
 
-In this exercise, we will create a user's email alias. An email alias allows a user to receive emails sent to multiple addresses in their Gmail inbox.
+In this exercise, we will create a user's email alias, which allows them to receive emails sent to multiple addresses in their Gmail inbox.
 
 I. In the left panel in the admin console, click "Directory" > Users
 
@@ -191,12 +189,11 @@ II. Google Workspace supports many password policies.
 
 I. Return to the "Security" page, scroll down and click "Account Recovery."
 
-II. This setting allows you to control whether a Super Admin can recover their account themselves using the Forgot Password link, or whether they must ask another Super Admin or Google Support to reset their password.
+II. This setting determines if a Super Admin can independently reset their password using the Forgot Password link or needs help from another Super Admin or Google Support.
 
-III. This setting is also where you control whether users can recover their own passwords. This is achieved through the use of a recovery email address or phone number. Note that password recovery is not available when using SSO, and 2-step verification users must use the email recovery option.
+III. In this setting, you can allow users to recover their passwords via a recovery email or phone number. Note that this option is unavailable with Single Sign-On (SSO), and two-step verification users must use email recovery.
 
-IV. By default, only a domain administrator can reset a user’s password. To enable user password recovery, click User account recovery and check the Allow users and non-super
-admins to recover their account box, Then click SAVE.
+IV. By default, only a domain administrator can reset user passwords. To enable recovery for users and non-super admins, click "User Account Recovery", check Allow account recovery, and then click "SAVE."
 
 ![image](https://github.com/user-attachments/assets/abceb274-bf16-4fb2-a9e4-9051a6eb034e)
 
@@ -228,7 +225,7 @@ IV. Click "OVERRIDE." This will override the top-level organization's setting of
 
 I. On the Security page, scroll down, and click "Less secure apps."
 
-Some third-party apps continue to use less secure sign-in technology. You can choose to deny access for these apps, which we recommend, or choose to allow access despite the risks.
+Some third-party apps use insecure sign-in methods. You can either deny access, which is recommended , or allow it despite the risks.
 
 II. Make sure that "Disable access to less secure apps (recommended)" is selected. Click SAVE if you need to change this setting.
 
@@ -253,12 +250,12 @@ This will take you to the Safety page which is divided into four sections:
   
 II. Click the "Attachments" card to manage protections. You can enable or disable settings and view the default actions.
 
-III. If not already enabled, check 'Protect against encrypted attachments from untrusted senders' and choose an action for messages that trigger this policy. The options are:
+III. If not already enabled, check "Protect against encrypted attachments from untrusted senders" and choose an action for messages that trigger this policy. The options are:
 - Keep email in the inbox and show warning (default)
 - Move email to spam
 - Quarantine
 
-IV. If you choose to quarantine the message you will be able to select which quarantine to use.
+IV. If you choose to quarantine the message, you will be able to select which quarantine to use.
 
 V. Choose a desired option and click SAVE.
 
@@ -272,7 +269,9 @@ Explore the other settings in this section and also click on each of the other t
 
 <strong>Scenario</strong>
 
-Your company strongly emphasizes the confidentiality of corporate information. John, the CEO, has become aware that it is common practice for non-permanent staff to use their personal email accounts to conduct business. Some non-permanent staff have created a Gmail filter that forwards all mail received to their personal account, and John would like to stop this practice.
+
+
+
 
 
 I. Click the "Apps" icon >  Google Workspace > click the "Gmail" service.
