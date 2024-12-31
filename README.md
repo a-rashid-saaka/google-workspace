@@ -413,3 +413,41 @@ IV. In either option, click the COPY PASSWORD link to copy the password to your 
 ![image](https://github.com/user-attachments/assets/f0407965-646a-4c60-ba1e-d0fcc4e9cdfe)
 
 V. Provide Elias with his new password. When he next signs in he will be asked to change his password.
+
+<br>
+
+<h4>Renaming a user</h4>
+
+<strong>Scenario</strong>
+
+You receive a mail from Fred Wallace that says he does not  go by the name Fred at work, but goes by Frederick instead. He asks that you make changes to his account so he can log in with his preffered name.
+
+
+I. Ask Tim Lee to sign out of his Google Workspace account.
+
+
+II. In the left panel of the admin console, click Directory > Users.
+
+III. In the user list, hover over Fred Wallace and click Update user on the right.
+   
+IV. In the ‘Update user' dialog box, read the warning message and enter the following:
+- First name: Frederick
+- Last name: Wallace
+- Primary email: frederick.wallace. This is the username he will use to sign in to Google
+Workspace.
+
+The First and Last name settings represent the Display Name.
+
+![image](https://github.com/user-attachments/assets/296860ab-cf79-44ed-8355-00ffb251bae8)
+
+V. Click UPDATE USER and then click DONE to confirm the change. 
+
+![image](https://github.com/user-attachments/assets/36eb8b43-6e76-4710-aa7c-81a93f22d2bb)
+
+In the confirmation dialog box, note that Fred’s original email address fred.wallace@saaka.carrd.co has been added as an alternate
+email address.This is to ensure that he can still receive mail sent to his old primary address.
+
+![image](https://github.com/user-attachments/assets/44935c1e-fa95-4119-95ac-097def2f692b)
+
+
+Now we can see what happens when we rename a user.
