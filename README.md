@@ -412,7 +412,7 @@ IV. In either option, click the COPY PASSWORD link to copy the password to your 
 
 ![image](https://github.com/user-attachments/assets/f0407965-646a-4c60-ba1e-d0fcc4e9cdfe)
 
-V. Provide Elias with his new password. When he next signs in he will be asked to change his password.
+V. Provide Elias with his new password. When he next signs in, he will be asked to change it.
 
 <br>
 
@@ -420,7 +420,7 @@ V. Provide Elias with his new password. When he next signs in he will be asked t
 
 <strong>Scenario</strong>
 
-You receive a mail from Fred Wallace that says he does not  go by the name Fred at work, but goes by Frederick instead. He asks that you make changes to his account so he can log in with his preffered name.
+You receive mail from Fred Wallace stating that he does not go by the name Fred at work but goes by Frederick instead. He asks that you make changes to his account so he can log in with his preferred name.
 
 
 I. Ask Tim Lee to sign out of his Google Workspace account.
@@ -445,9 +445,13 @@ V. Click UPDATE USER and then click DONE to confirm the change.
 ![image](https://github.com/user-attachments/assets/36eb8b43-6e76-4710-aa7c-81a93f22d2bb)
 
 In the confirmation dialog box, note that Fred’s original email address fred.wallace@saaka.carrd.co has been added as an alternate
-email address.This is to ensure that he can still receive mail sent to his old primary address.
+email address. This ensures he can still receive mail sent to his old primary address.
 
 ![image](https://github.com/user-attachments/assets/44935c1e-fa95-4119-95ac-097def2f692b)
 
 
 Now we can see what happens when we rename a user.
+
+<h2> Conclusion</h2>
+
+<p></p>
