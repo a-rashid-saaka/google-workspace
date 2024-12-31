@@ -269,9 +269,7 @@ Explore the other settings in this section and also click on each of the other t
 
 <strong>Scenario</strong>
 
-
-
-
+The company prioritizes the confidentiality of corporate information. John, the CEO, has observed that non-permanent staff often use their personal email accounts for work, with some forwarding business emails to their accounts. John wants to stop this practice.
 
 
 I. Click the "Apps" icon >  Google Workspace > click the "Gmail" service.
