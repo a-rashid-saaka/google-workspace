@@ -246,10 +246,10 @@ III. This policy can be applied at the OU level.
 I. Click the "Apps" icon > Google Workspace > click the "Gmail" service > Click "Safety."
 
 This will take you to the Safety page which is divided into four sections:
-- Attachments: Policies to protect against malware.
-- IMAP view time protections: Malicious link protection for users of IMAP clients.
-- Links and external images: Prevent email phishing attacks.
-- Spoofing and authentication: Reduce phishing due to spoofing and unauthenticated emails.
+- Attachments
+- IMAP view time protections
+- Links and external images
+- Spoofing and authentication
   
 II. Click the "Attachments" card to manage protections. You can enable or disable settings and view the default actions.
 
@@ -452,6 +452,8 @@ email address. This ensures he can still receive mail sent to his old primary ad
 
 Now we can see what happens when we rename a user.
 
+<br>
+
 <h2> Conclusion</h2>
 
-<p></p>
+<p>This project took us through how to properly  manage and administer a Google Workspace environment. It included the setup, configuration, and management of core administrative tasks, such as user management, organizational unit management, Email service configuration, security policy configuration, and troubleshooting some common issues. This project highlighted the need to be able to maintain a secure, efficient, and collaborative IT environment using Google Workspace tools.</p>
