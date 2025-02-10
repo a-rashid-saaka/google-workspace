@@ -274,7 +274,7 @@ The company prioritizes the confidentiality of corporate information. John, the 
 
 I. Click the "Apps" icon >  Google Workspace > click the "Gmail" service.
 
-II. Click "End User Access." You will need to scroll down to see this section if you don't mind.
+II. Click "End User Access." You will need to scroll down to see this section.
 
 III. Click on your top-level organization on the left to ensure that POP and IMAP access are set to OFF.
 
